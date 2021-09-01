@@ -1,0 +1,30 @@
+body {
+	background-color: bisque;
+}
+
+* {
+	color: #FFFFFF;
+}
+
+body {
+	color: black;
+}
+
+p {
+	color: black;
+}
+
+h2 {
+	color: black;
+}
+
+h3 {
+	color: darkgreen;
+}
+
+.animal{
+	color: darkgreen;
+	font-family: 'BioRhyme Expanded';
+	font-size: 20px;
+}
+
